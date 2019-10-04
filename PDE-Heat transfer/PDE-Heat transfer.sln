@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "PDE-Heat transfer", "PDE-Heat transfer\PDE-Heat transfer.vfproj", "{C9EC5297-B9C6-4AD8-828A-2E8355265F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EC5297-B9C6-4AD8-828A-2E8355265F42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9EC5297-B9C6-4AD8-828A-2E8355265F42}.Debug|Win32.Build.0 = Debug|Win32
+		{C9EC5297-B9C6-4AD8-828A-2E8355265F42}.Release|Win32.ActiveCfg = Release|Win32
+		{C9EC5297-B9C6-4AD8-828A-2E8355265F42}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
