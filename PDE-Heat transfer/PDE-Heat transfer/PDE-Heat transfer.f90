@@ -24,7 +24,7 @@ dimension u0(neq),u(neq)
 ! 
 ! Open a file for output
 no=2
-open(no,file='G:\Documents\programming\Fortran\ODE&PDE\PDE-Heat transfer\PDE-Heat transfer\PDE-Heat transferfor.out')
+open(no,file='PDE-Heat-transferfor.out')
 ! 
 ! Step through six integrators
 do ncase=1,6

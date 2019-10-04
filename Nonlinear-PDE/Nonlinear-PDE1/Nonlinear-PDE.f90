@@ -24,7 +24,7 @@ dimension u0(neq),u(neq)
 ! 
 ! Open a file for output
 no=2
-open(no,file='G:\Documents\programming\Fortran\ODE&PDE\Nonlinear-PDE\Nonlinear-PDE\Nonlinear-PDE1\Nonlinear-PDEfor.out')
+open(no,file='Nonlinear-PDEfor.out')
 ! 
 ! Step through six integrators
 do ncase=1,6

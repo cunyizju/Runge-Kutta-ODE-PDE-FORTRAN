@@ -24,7 +24,7 @@ dimension u0(neq),u(neq)
 ! 
 ! Open a file for output
 no=2
-open(no,file='G:\Documents\programming\Fortran\ODE&PDE\ODE2X2\ODE\ode1x1for.out')
+open(no,file='ode1x1for.out')
 ! 
 ! Step through six integrators
 do ncase=1,6

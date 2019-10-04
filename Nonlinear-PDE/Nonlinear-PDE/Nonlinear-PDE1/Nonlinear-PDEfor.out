@@ -1,8 +1,0 @@
-
-
- euler2a integrator
-
- ncase =  1 neqn = 22
-
- t u(1) u(im) u(neqn)
-   0.0    298.00    298.00    298.00
